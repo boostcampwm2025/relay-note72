@@ -65,16 +65,19 @@
     1. 슬랙 채널에서 워크플로우 빌더 열기
     2. 새 워크플로우 만들기 → 이벤트 선택 → “일정에 따라” 선택
     
-    ![image.png](attachment:03be251c-f221-4ab7-8b69-c051fbfb2381:image.png)
+    <img width="672" height="632" alt="image" src="https://github.com/user-attachments/assets/0ed1969d-36f9-4e2c-83f9-d0a436c8c33f" />
+
     
-    1. 원하는 시간, 빈도 설정 (예: 매일 오후 3시)
+    3. 원하는 시간, 빈도 설정 (예: 매일 오후 3시)
     
-    ![image.png](attachment:a1c1ed4e-0731-4231-82de-78d3437b7913:image.png)
+    <img width="678" height="517" alt="image" src="https://github.com/user-attachments/assets/91950b1c-437f-438e-ac84-b1741b629db7" />
+
     
-    1. “메시지 보내기” 액션 추가 → 스트레칭 등 원하는 문구 입력
-    2. 완료 후 저장하면 슬랙봇이 자동으로 알림 전송!
+    4. “메시지 보내기” 액션 추가 → 스트레칭 등 원하는 문구 입력
+    5. 완료 후 저장하면 슬랙봇이 자동으로 알림 전송!
     
-    ![image.png](attachment:490dedf9-1253-4cd3-b457-fec9cde82457:image.png)
+    <img width="679" height="443" alt="image" src="https://github.com/user-attachments/assets/902cce36-31fd-4907-9a5d-656cd0d50823" />
+
     
 - **결과**:
     - 집중력에 속아 건강을 잃지 말지 않을 수 있다!
@@ -91,21 +94,17 @@
     - 이후 추가로 작성할 정보를 정리한다.
     - [뤼튼](https://wrtn.ai/) AI에 접속한다.
     - 도구 → 이미지 제작 클릭
-        
-        ![스크린샷 2025-07-18 오후 4.51.40.png](attachment:e26689f4-fd68-4dae-ac3e-c62269842977:스크린샷_2025-07-18_오후_4.51.40.png)
-        
-    
-    ![스크린샷 2025-07-18 오후 4.52.09.png](attachment:a190245e-b1e8-4bcb-af11-63306385ff9d:스크린샷_2025-07-18_오후_4.52.09.png)
-    
+
+       <img width="198" height="223" alt="image" src="https://github.com/user-attachments/assets/c1ef9eb9-c6cf-4812-ab62-2244a32acbc4" />
+
     - 프롬프트에 관련 정보를 전달하고 팀 가족사진을 만들어달라고 요청한다.
         
-        ![스크린샷 2025-07-18 오후 4.47.33.png](attachment:95eef125-9558-4330-b727-a73ed3c72087:스크린샷_2025-07-18_오후_4.47.33.png)
-        
-        ![스크린샷 2025-07-18 오후 4.47.53.png](attachment:dff52887-64e8-40ec-a1be-7dbe8c8fca17:스크린샷_2025-07-18_오후_4.47.53.png)
+        <img width="362" height="367" alt="image" src="https://github.com/user-attachments/assets/1254dee2-f47b-4490-8ebf-9eb6f2dd1adb" />
+
         
     - 나온 이미지를 저장한다. 가능하다면 슬랙에 공유한다!
         
-        ![c3685098-d097-4d28-821f-8a810dbd8963.png](attachment:dc7d5cae-499e-4804-b687-fd89d832dc2e:c3685098-d097-4d28-821f-8a810dbd8963.png)
+        <img width="331" height="329" alt="image" src="https://github.com/user-attachments/assets/cdd991fd-04dd-4903-9317-37701f73191f" />
         
 - **결과**:
     - AI로 우리
@@ -123,7 +122,8 @@
     
     - 좌측 메뉴 중 **Create** 로 이동
     
-    ![image.png](attachment:2586d355-1c69-4e90-9aa4-1fd2c31cd7b4:image.png)
+    <img width="525" height="498" alt="image" src="https://github.com/user-attachments/assets/8a1b20e0-a34d-4350-9392-14adc18fbc04" />
+
     
     - 가사 프롬프트 :  미션 회고 또는 슬랙에 있는 사람들의 미션 회고를 자유롭게 작성한다.
     - 음악 스타일 프롬프트 : 현재 본인의 기분을 반영한 음악 스타일을 작성한다.
@@ -148,10 +148,11 @@
     - 어떤 동료의 README를 참고했는지 알려준다.
 - **결과**:
     
-    ![image.png](attachment:07aead17-8f30-4012-9f58-fdcb3715ed85:image.png)
-    
-    ![image.png](attachment:7611901c-4dbc-4526-9704-3d73ca624db7:image.png)
-    
-    ![image.png](attachment:a2d0650c-971e-4e93-925d-57875017cf48:image.png)
-    
-    ![image.png](attachment:cda55c07-14b1-4ac5-85b9-e5b484d4d1c5:image.png)
+    <img width="720" height="467" alt="image" src="https://github.com/user-attachments/assets/e59a43c1-8107-429d-bd45-00729ef11449" />
+
+   <img width="671" height="752" alt="image" src="https://github.com/user-attachments/assets/2222bb47-8209-47b0-b7f5-e81b025e459a" />
+
+    <img width="597" height="285" alt="image" src="https://github.com/user-attachments/assets/db9126c2-9efc-4cdd-b594-a87f3fa701ba" />
+
+   <img width="614" height="717" alt="image" src="https://github.com/user-attachments/assets/9c40f906-1c17-4f6e-adc9-3f49f89f12cd" />
+

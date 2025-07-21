@@ -178,4 +178,4 @@
 ### 4-1. 실천 이미지 첨부
 
 - j156 
-    - ![j156 릴레이프로젝트 스트레칭 실천](https://gist.github.com/user-attachments/assets/0d04f579-13c2-4edf-9ea6-640a5b3d00d0)
+    - ![j156 릴레이프로젝트 스트레칭 실천](./j156-relayProject.PNG)

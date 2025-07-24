@@ -173,7 +173,7 @@
 | j156  | V | V | V | V |   |
 | S037  |    |   | V |   |   |
 | J234  |    |   |   |   |   |
-| J188  |    |   |   |   |   |
+| J188  |    |   |   |   | V |
 
 ### 4-1. 실천 이미지 첨부
 
@@ -186,3 +186,5 @@
 - S037
     - 이미지 대신 링크로 https://boostcampwm10-ch.slack.com/archives/C095HM7NE81/p1753243744386069
 
+- J188
+    - 이미지 대신 링크로 https://boostcampwm10-ch.slack.com/archives/C095HM7NE81/p1753388357413959

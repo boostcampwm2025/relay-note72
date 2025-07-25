@@ -146,7 +146,7 @@
 
     이미지 생성형 AI를 통해 4컷만화를 만들어본다. 
 
-    AI 추천 : Chat gpt 에서 Plugin
+    AI 추천 : Chat gpt 에서 Master ACG (Anime, Comics/Manga, Game) Plugin 사용하기.
   
     - 1. 프롬프트 사용하기
           - 예시 : 4컷 흑백 만화 스타일로 다음 내용을 그린다.

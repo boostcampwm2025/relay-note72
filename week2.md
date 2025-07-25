@@ -146,7 +146,15 @@
 
     이미지 생성형 AI를 통해 4컷만화를 만들어본다. 
 
-    AI 추천 : Chat gpt 에서 Master ACG (Anime, Comics/Manga, Game) Plugin 사용하기.
+    AI 추천: ChatGPT
+  
+    플러그인 추천: Master ACG
+  
+    - 플러그인 적용 방법
+         - ChatGPT에 접속한다.
+         - 왼쪽 메뉴에서 Sora 항목 아래의 GPT를 선택한다.
+         - GPT 검색에서 Master ACG를 검색한 후 선택하고, ‘채팅 시작’을 누른다. (다른 테마를 적용하고 싶다면, ‘comics’를 검색하여 원하는 테마를 적용할 수 있다.)
+         - 프롬프트를 입력한다.
   
     - 1. 프롬프트 사용하기
           - 예시 : 4컷 흑백 만화 스타일로 다음 내용을 그린다.

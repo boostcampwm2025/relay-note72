@@ -272,3 +272,5 @@
   - 선택한 이유 [회고는 이미 진행하고 있기도 하고, 캠퍼분들과 더 돈독하게 지내고 싶기 때문에]
 
 ### 퀘스트 수행 기록
+- `J263_진서연`
+   - https://lovely-sunstone-c80.notion.site/J263-248d7ffb4ba480e4a545cd1466ea064f?source=copy_link
